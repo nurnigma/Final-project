@@ -1,0 +1,24 @@
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Final project.exe
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Resources\rules.txt
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Final project.deps.json
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Final project.runtimeconfig.json
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Final project.dll
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Final project.pdb
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.csproj.AssemblyReference.cache
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.Properties.Resources.resources
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.csproj.GenerateResource.cache
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.AssemblyInfoInputs.cache
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.AssemblyInfo.cs
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.csproj.CoreCompileInputs.cache
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.dll
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\refint\Final project.dll
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.pdb
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final project.genruntimeconfig.cache
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\ref\Final project.dll
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.Information.resources
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.BarOfAudience.resources
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.GameField.resources
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.Menu.resources
+C:\Users\Demo\source\repos\Final project\Final project\obj\Release\net6.0-windows\Final_project.VictoryWindow.resources
+C:\Users\Demo\source\repos\Final project\Final project\bin\Release\net6.0-windows\Resources\вопросы и ответы.txt
